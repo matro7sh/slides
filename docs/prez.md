@@ -2,7 +2,7 @@
 marp: true
 theme: uncover
 paginate: true
-header: "**How to get paid to hack and avoid jail** by _HOUZIAUX MIKE_ (20/01/2021)"
+header: "**Monitoring a mission has never been so simple** by _HOUZIAUX MIKE_ (08/03/2021)"
 ---
 <!-- _header: "" -->
 <!-- _backgroundColor: #000 -->
@@ -26,17 +26,35 @@ pentest oriented collaborative tool!
 - Features coming soon
 
 ---
+<!-- _header: "" -->
 ![left:50%](img/pb1.jpeg)
 
 
 ---
-
+<!-- _header: "" -->
 
 ![bg contain](img/pb2.jpeg)
 
 
+
 ---
-![bg contain](img/missionView.png)
+![bg h:80](img/sf.png)
+![bg w:200](img/angular.png)
+![bg w:300](img/docker.png)
+![bg w:200](img/python.png)
+
+--- 
+# Features
+
+* Dark theme (lol)
+* Atomic roles management
+* Include codiMD and Bitwarden
+* Vulnerabilities Database
+* API (protected using JWT)
+* Projet management
+* Preview state of mission
+* Generate report
+
 
 
 ---
@@ -48,8 +66,17 @@ pentest oriented collaborative tool!
 
 https://github.com/CMEPW/smersh-cli
 
+`pip install smersh-cli`
+
+---
+<!-- _header: "" -->
+![bg contain](img/demo.jpeg)
+
 
 --- 
+<!-- _header: "" -->
+![bg](img/troll.png)
 
-![bg](https://memegenerator.net/img/instances/72416133/thank-you.jpg)
 
+---
+# Question ? 
