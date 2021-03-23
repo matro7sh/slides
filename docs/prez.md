@@ -20,7 +20,7 @@ pentest oriented collaborative tool!
 <!-- _paginate: false -->
 ## Summary
 
-- Why create it ? 
+- Why and who create it ? 
 - Technologies
 - Live demo
 - Features coming soon
@@ -33,8 +33,12 @@ pentest oriented collaborative tool!
 ---
 <!-- _header: "" -->
 
-![bg contain](img/pb2.jpeg)
+# Contributors
 
+![bg](img/mike.jpeg)
+![bg](img/sylvain.jpeg)
+![bg](img/franck.jpeg)
+![bg](img/ledocteurdesbits.jpeg)
 
 
 ---
@@ -46,8 +50,8 @@ pentest oriented collaborative tool!
 --- 
 # Features
 
-* Dark theme (lol)
 * Atomic roles management
+* Dark theme (lol)
 * Include codiMD and Bitwarden
 * Vulnerabilities Database
 * API (protected using JWT)
@@ -77,6 +81,16 @@ https://github.com/CMEPW/smersh-cli
 <!-- _header: "" -->
 ![bg](img/troll.png)
 
+--- 
+# What's coming soon ?
+
+* Real time notification
+* End to End Tests
+* Upload picture in vulnerability
+
 
 ---
-# Question ? 
+# Questions / Ideas ? 
+
+>cmon help us ! 
+make the pentest great again
