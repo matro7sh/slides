@@ -1,6 +1,6 @@
 # Slides of Smersh 
 
-![bg](source/img/missionView.jpeg)
+![bg](docs/img/missionView.jpeg)
 
 ## Talks
 
