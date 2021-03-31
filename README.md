@@ -1,5 +1,7 @@
 # Slides of Smersh 
 
+Preview here https://cmepw.github.io/slides/
+
 ![bg](docs/img/missionView.jpeg)
 
 ## Talks
