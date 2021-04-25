@@ -51,7 +51,7 @@ pentest oriented collaborative tool!
 # Features
 
 * Atomic roles management
-* Dark theme (lol)
+* Behat / End To End tests
 * Include codiMD and Bitwarden
 * Vulnerabilities Database
 * API (protected using JWT)
@@ -84,9 +84,10 @@ https://github.com/CMEPW/smersh-cli
 --- 
 # What's coming soon ?
 
-* Real time notification
-* End to End Tests
-* Upload picture in vulnerability
+* Real time notification ( Mercure )
+* Upload picture in vulnerability ( on PR )
+* Password to protect mission
+* Translate all front-end with i18n
 
 
 ---
