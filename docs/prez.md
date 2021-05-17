@@ -15,12 +15,30 @@ header: "**Monitoring a mission has never been so simple** by _HOUZIAUX MIKE_ (0
 pentest oriented collaborative tool!
 
 ---
+![bg left:40%](https://avatars.githubusercontent.com/u/15458329?s=460&u=40759e8544e8cb22de2e3ffa0cddc94d3d87af3e&v=4)
+
+<!-- class: invert -->
+<!-- _header: "" -->
+<!-- _paginate: false -->
+### Houziaux Mike
+IT Engineer
+-  Pentester @Orange Cyberdefense
+-  CTF player for @Inshallack 
+-  Vice-captain 0xCD
+-  Open source Contributor (Symfony, rawsec)
+-  Smersh tool creator
+-  Engineer graduated from CNAM
+
+*@jenaye_fr* 
+
+
+---
 <!-- class: invert -->
 <!-- _header: "" -->
 <!-- _paginate: false -->
 ## Summary
 
-- Why and who create it ? 
+- Why and who created it ? 
 - Technologies
 - Live demo
 - Features coming soon
@@ -59,6 +77,8 @@ pentest oriented collaborative tool!
 * Preview state of mission
 * Generate report
 
+---
+![bg contain](img/mission-preview.png)
 
 
 ---
@@ -94,4 +114,9 @@ https://github.com/CMEPW/smersh-cli
 # Questions / Ideas ? 
 
 >cmon help us ! 
-make the pentest great again
+
+* https://twitter.com/Smersh_sec
+* https://github.com/CMEPW/
+
+### Official discord (Porchetta industries)
+* https://discord.gg/JVCV6ykY
