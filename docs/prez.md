@@ -2,7 +2,7 @@
 marp: true
 theme: uncover
 paginate: true
-header: "**Monitoring a mission has never been so simple** by _HOUZIAUX MIKE_ (08/03/2021)"
+header: "**Monitoring a mission has never been so simple** by _HOUZIAUX MIKE_ (09/27/21)"
 ---
 <!-- _header: "" -->
 <!-- _backgroundColor: #000 -->
@@ -69,7 +69,7 @@ IT Engineer
 # Features
 
 * Atomic roles management
-* Behat / End To End tests
+* Behat / Cypress tests
 * Include codiMD and Bitwarden
 * Vulnerabilities Database
 * API (protected using JWT)
@@ -78,7 +78,7 @@ IT Engineer
 * Generate report
 
 ---
-![bg contain](img/mission-preview.png)
+![bg contain](img/mission-fake.png)
 
 
 ---
@@ -105,9 +105,9 @@ https://github.com/CMEPW/smersh-cli
 # What's coming soon ?
 
 * Real time notification ( Mercure )
-* Upload picture in vulnerability ( on PR )
 * Password to protect mission
-* Translate all front-end with i18n
+* Custom checkliss
+* Proxy support
 
 
 ---
